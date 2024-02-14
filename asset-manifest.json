@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karthik-week-2/static/css/main.f96f07a4.css",
+    "main.js": "/karthik-week-2/static/js/main.52885251.js",
+    "static/js/592.f204455c.chunk.js": "/karthik-week-2/static/js/592.f204455c.chunk.js",
+    "index.html": "/karthik-week-2/index.html",
+    "main.f96f07a4.css.map": "/karthik-week-2/static/css/main.f96f07a4.css.map",
+    "main.52885251.js.map": "/karthik-week-2/static/js/main.52885251.js.map",
+    "592.f204455c.chunk.js.map": "/karthik-week-2/static/js/592.f204455c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.52885251.js"
+  ]
+}
